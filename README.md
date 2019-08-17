@@ -7,4 +7,4 @@ The script file cannot be compiled.
 Erase is delete.</br>
 Interrupt is control-C (^C).</br>
 </br></br>
-<h1><a href ="https://youtube.com">YouTube Tutorial</a></h1>
+<h1><a href ="https://youtu.be/yqxqnOb6XXI">YouTube Tutorial</a></h1>
